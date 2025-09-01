@@ -19,9 +19,11 @@
   "homepage": "https://github.com/Clovis-Cleopas/AFRIHEALTH-CONNECT#readme",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "animate.css": "^4.1.1",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
-    "mysql2": "^3.14.4"
+    "mysql2": "^3.14.4",
+    "toastify-js": "^1.12.0"
   }
 }
